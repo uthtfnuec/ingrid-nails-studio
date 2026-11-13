@@ -322,6 +322,7 @@ footer {
     <img src="https://images.unsplash.com/photo-1610992015732-2449b76344bc?w=600" alt="Inspiração de manicure">
     <img src="https://images.unsplash.com/photo-1632345031435-8727f6897d53?w=600" alt="Inspiração de nail art">
     <img src="https://images.unsplash.com/photo-1610992015732-2449b76344bc?w=600" alt="Inspiração de unhas decoradas">
+    <img src="dde45942-6ec5-4de2-aef2-931cf41cf632.jpeg" alt="Inspiração de unhas">
   </div>
   <p class="note">Fotos ilustrativas. Em breve, trabalhos reais da Ingrid.</p>
 </section>
