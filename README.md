@@ -318,7 +318,7 @@ footer {
   <p class="subtitle">Algumas inspirações para seu próximo visual.</p>
 
   <div class="gallery-grid">
-    <img src=37aef35e-9a89-4aac-9840-d52b602153e3.jpeg alt="Inspiração de unhas">
+    <img src=“37aef35e-9a89-4aac-9840-d52b602153e3.jpeg” alt="Inspiração de unhas">
     <img src="https://images.unsplash.com/photo-1610992015732-2449b76344bc?w=600" alt="Inspiração de manicure">
     <img src="https://images.unsplash.com/photo-1632345031435-8727f6897d53?w=600" alt="Inspiração de nail art">
     <img src="https://images.unsplash.com/photo-1610992015732-2449b76344bc?w=600" alt="Inspiração de unhas decoradas">
