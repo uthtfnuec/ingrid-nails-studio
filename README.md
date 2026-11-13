@@ -320,7 +320,8 @@ footer {
   <div class="gallery-grid">
     
     <img src="dde45942-6ec5-4de2-aef2-931cf41cf632.jpeg" alt="Inspiração de unhas">
-    <img src="https://images.unsplash.com/photo-1632345031435-8727f6897d53?w=600" alt="Inspiração de nail art">
+    <img src="63e08e97-8d44-4a0a-a95d-79172318bc17.jpeg
+" alt="Inspiração de nail art">
     <img src="37aef35e-9a89-4aac-9840-d52b602153e3.jpeg" alt="Inspiração de unhas decoradas">
     <img src="dde45942-6ec5-4de2-aef2-931cf41cf632.jpeg" alt="Inspiração de unhas">
   </div>
